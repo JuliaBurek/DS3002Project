@@ -1,7 +1,7 @@
 # DS3002Project
 ETL Data Processor
 
-In this project, I authored a sedgment of an ETL pipeline that will ingest or process raw data. The data processr is able to ingest a pre-defined data source and perform these operations:
+In this project, I authored a segment of an ETL pipeline that will ingest or process raw data. The data processr is able to ingest a pre-defined data source and perform these operations:
   1. Fetch / download / retrieve a remote data file by URL.
   2. Convert the general format and data structure of the data source (from CSV to JSON).
   3. Modify the number of columns from the source to the destination, reducing columns.
