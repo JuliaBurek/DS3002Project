@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-import json
-import csv
 import os
 import pandas as pd 
 
@@ -33,7 +31,7 @@ def remove_col(data, colname):
     # remove_col(covid19, 'ipeds_id')
 
 
-# 5. Generate a brief summary of the data file ingestion including:
+# 4. Generate a brief summary of the data file ingestion including:
 #        a. Number of records
 #        b. Number of columns
 
